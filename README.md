@@ -48,3 +48,17 @@ The project focuses on transforming comprehensive football tournament data into 
 ## 🚀 Project Purpose
 
 This project demonstrates the application of Business Intelligence and Data Analytics techniques to football performance data, transforming raw statistics into interactive visualizations and actionable insights.
+
+## 📊 Dashboard Preview
+
+### Executive Summary
+![Executive Summary](FIFA-World-Cup-2026-Analysis/Images/Executive_Summary.png)
+
+### Attack Analysis
+![Attack Analysis](FIFA-World-Cup-2026-Analysis/Images/Attack_Analysis.png)
+
+### Defensive Analysis
+![Defensive Analysis](FIFA-World-Cup-2026-Analysis/Images/Defensive_Analysis.png)
+
+### Goalkeeper Analysis
+![Goalkeeper Analysis](Images/Goalkeeper_Analysis.png)
