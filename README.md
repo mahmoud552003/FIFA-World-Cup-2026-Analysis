@@ -52,13 +52,13 @@ This project demonstrates the application of Business Intelligence and Data Anal
 ## 📊 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](FIFA-World-Cup-2026-Analysis/Images/Executive_Summary.jpg)
+![Executive Summary](FIFA-World-Cup-2026-Analysis/images/Executive_Summary.jpg)
 
 ### Attack Analysis
-![Attack Analysis](FIFA-World-Cup-2026-Analysis/Images/Attack_Analysis.jpg)
+![Attack Analysis](FIFA-World-Cup-2026-Analysis/images/Attack_Analysis.jpg)
 
 ### Defensive Analysis
-![Defensive Analysis](FIFA-World-Cup-2026-Analysis/Images/Defensive_Analysis.jpg)
+![Defensive Analysis](FIFA-World-Cup-2026-Analysis/images/Defensive_Analysis.jpg)
 
 ### Goalkeeper Analysis
-![Goalkeeper Analysis](Images/Goalkeeper_Analysis.jpg)
+![Goalkeeper Analysis](FIFA-World-Cup-2026-Analysis/images/Goalkeeper_Analysis.jpg)
